@@ -1,0 +1,209 @@
+@font-face {
+    font-family: a-700;
+    src: url(./fonts/Amazon\ Ember\ Bold.ttf);
+}
+@font-face {
+    font-family: a-400;
+    src: url(./fonts/Amazon-Ember-Regular.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-more {
+    background-color: #E3E6E6;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    /* gap: 10px; */
+}
+
+
+/* MORE BOX START */
+.more-box {
+    display: inline-block;
+    margin: 20px auto;
+    width: 313px;
+    height: 420px;
+    margin-left: 20px;
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 5px rgb(199, 198, 198);
+}
+
+.more-h1 {
+    font-size: 21px;
+    font-family:a-700;
+    color: rgb(15, 17, 17);
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.more-images {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.more-img-1 {
+    margin-right: 15px;
+}
+
+.more-link {
+    text-decoration: none;
+}
+
+.more-link  img{
+    width: 135px;
+    height: 115px;
+}
+
+
+.more-img-p {
+    font-size: 12px;
+    font-family:a-400;
+    color: rgb(15, 17, 17);
+    padding-bottom: 30px;
+}
+
+.more-shop-gaming {
+    font-size: 13px;
+    font-family:a-400;
+    color: rgb(15, 15, 230);
+}
+
+.more-shop-gaming:hover {
+    cursor: pointer;
+    color: rgb(12, 51, 83);
+}
+
+/* MORE BOX END */
+
+
+
+/* MORE BOX 2 START */
+.more-box-2 {
+    display: inline-block;
+    margin-top: 20px;
+    width: 313px;
+    height: 420px;
+    /* margin-left: 5px; */
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: white;
+    /* margin-bottom: 10px; */
+    box-shadow: 3px 3px 5px rgb(199, 198, 198);
+}
+
+.seemore {
+    position: relative;
+    top: -20px;
+    
+}
+
+/* MORE BOX 2 END */
+
+
+
+/* MORE BOX 3 START */
+.more-box-3 {
+    display: inline-block;
+    margin-top: 20px;
+    width: 313px;
+    height: 420px;
+    /* margin-left: -5px; */
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 5px rgb(199, 198, 198);
+}
+/* MORE BOX 3 END */
+
+
+/* MORE BOX 4 START */
+.more-box-4 {
+    display: inline-block;
+    margin-top: 20px;
+    width: 313px;
+    height: 420px;
+    margin-left: -5px;
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 5px rgb(199, 198, 198);
+}
+/* MORE BOX 4 END */
+
+
+
+/* MORE BOX 5 START */
+.more-box-5 {
+    display: inline-block;
+    /* margin-top: 20px; */
+    width: 313px;
+    height: 420px;
+    margin-left: 20px;
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 5px rgb(199, 198, 198);
+}
+/* MORE BOX 5 END */
+
+
+
+/* MORE BOX 6 START */
+.more-box-6 {
+    display: inline-block;
+    /* margin-top: 20px; */
+    width: 313px;
+    height: 420px;
+    /* margin-left: 5px; */
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 5px rgb(199, 198, 198);
+}
+/* MORE BOX 6 END */
+
+
+
+/* MORE BOX 7 START */
+.more-box-7 {
+    display: inline-block;
+    /* margin-top: 20px; */
+    width: 313px;
+    height: 420px;
+    /* margin-left: 5px; */
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 5px rgb(199, 198, 198);
+}
+/* MORE BOX 7 END */
+
+
+
+/* MORE BOX 8 START */
+.more-box-8 {
+    display: inline-block;
+    /* margin-top: 20px; */
+    width: 313px;
+    height: 420px;
+    margin-left: -5px;
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 5px rgb(199, 198, 198);
+}
+/* MORE BOX 8 END */
